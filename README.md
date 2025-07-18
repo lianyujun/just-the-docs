@@ -1,5 +1,7 @@
 # just-the-docs-template
 
+感觉还不错，我来试一下。
+
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
